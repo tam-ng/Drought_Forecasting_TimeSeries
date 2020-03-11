@@ -14,13 +14,19 @@ Monthly SPEI measurements from the capitals of Somalia & Ethiopia 
 
 ## Modeling
 1.Benchmark Models: Naive, Mean, Seasoan Naive, Naive with drift
+
 2.Exponential Smoothing
   - Simple Exponential Smoothing (SES)
   - ETS
+
 3.ARIMA, sARIMA
+
 4.Spectral Analysis
+
 5.VAR, Regression with ARIMA error
+
 6.TBATS
+
 7.ARCH/GARCH
 
 
