@@ -10,7 +10,7 @@
 - Our Focus: Horn of Africa
 - With the goal of maximizing the impact of our predictions we have decided to focus on the region most affected by droughts.
 
-## Data: 
+## Data
 Monthly SPEI measurements from the capitals of Somalia & Ethiopia 
 
 https://spei.csic.es/home.html
