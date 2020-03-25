@@ -14,7 +14,10 @@
 Monthly SPEI measurements from the capitals of Somalia & Ethiopia 
 
 https://spei.csic.es/home.html
-
+- SPEI: Measures drought severity according to its intensity and duration, and can identify the onset
+and end of drought episodes
+- SPEI takes into account both precipitation and potential evaporation in determining drought,
+therefore, SPEI captures the main impact of increased temperatures on water demand
 
 ## Modeling
 1.Benchmark Models: Naive, Mean, Seasoan Naive, Naive with drift
