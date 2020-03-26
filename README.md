@@ -2,16 +2,16 @@
 
 
 ## Introduction
-- Concern: Globally, droughts are the biggest concern from climate change
-- Prevalence: Frequency and intensity of droughts has increased over the last century
-- Impact: Since 1900 Global droughts have affected 2 billion people and lead to more than 11 million deaths
+Globally, droughts are the biggest concern from climate change.Frequency and intensity of droughts has increased over the last century.Since 1900 Global droughts have affected 2 billion people and lead to more than 11 million deaths
 
 ## Objectives
 - Our Focus: Horn of Africa
-- With the goal of maximizing the impact of our predictions we have decided to focus on the region most affected by droughts.
+- Identified the most appropriate Time-Series method to forecast drought in African countries, acting as a critical early warning for drought managements
+- With the goal of maximizing the impact of our predictions we have decided to focus on the region most affected by droughts: Somalia, Ethiopia
 
 ## Data
-Monthly SPEI measurements from the capitals of Somalia & Ethiopia 
+- Using Meteorlogical Drought indicator: SPEI
+- Monthly SPEI measurements from the capitals of Somalia & Ethiopia 
 
 https://spei.csic.es/home.html
 - SPEI: Measures drought severity according to its intensity and duration, and can identify the onset
