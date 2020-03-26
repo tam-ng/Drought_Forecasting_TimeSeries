@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Globally, droughts are the biggest concern from climate change.Frequency and intensity of droughts has increased over the last century.Since 1900 Global droughts have affected 2 billion people and lead to more than 11 million deaths
+Globally, droughts are the biggest concern from climate change. Frequency and intensity of droughts has increased over the last century – Since 1900 Global droughts have affected 2 billion people and lead to more than 11 million deaths
 
 ## Objectives
 - Our Focus: Horn of Africa
