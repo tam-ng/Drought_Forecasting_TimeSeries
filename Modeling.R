@@ -2,7 +2,7 @@
 ########################################################################################
               # UCHICAGO - TIME-SERIES ANALYSIS
               # TOPIC: DROUGHT FORECASTING
-              # Team Memeber: Nazih Kalo, Markus Vehr,Tam Nguyen, Vineela Potula
+              # Team Memeber: Nazih Kalo, Markus Wehr,Tam Nguyen, Vineela Potula
 ########################################################################################
 
 
